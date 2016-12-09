@@ -16,7 +16,3 @@ h.add 5
 h.add 30
 h.add 0 
 binding.pry 
-puts h.remove 
-puts h.remove 
-puts h.remove 
-puts h.remove 
